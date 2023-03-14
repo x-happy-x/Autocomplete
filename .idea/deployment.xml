@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" uploadOnCheckin="d89c0f69-d9b0-43b5-86da-9bfdfb7e50dc" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="SFTP [Jino VPS]">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myUploadOnCheckinName" value="SFTP [Jino VPS]" />
+  </component>
+</project>
